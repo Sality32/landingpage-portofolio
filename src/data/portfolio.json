@@ -1,0 +1,249 @@
+{
+  "personalInfo": {
+    "name": "Your Name",
+    "title": "Full Stack Developer & AI Engineer Enthusiast",
+    "bio": "Passionate developer with expertise in modern web technologies and growing interest in AI engineering. I love building scalable applications and exploring the intersection of traditional development with artificial intelligence.",
+    "email": "your.email@example.com",
+    "location": "Your City, Country",
+    "avatar": "/images/avatar.jpg",
+    "social": {
+      "github": "https://github.com/yourusername",
+      "linkedin": "https://linkedin.com/in/yourusername",
+      "twitter": "https://twitter.com/yourusername"
+    }
+  },
+  "experience": {
+    "summary": "Experienced full stack developer with a track record of delivering robust web applications. Currently expanding into AI engineering to build intelligent solutions that combine traditional web development with cutting-edge machine learning capabilities.",
+    "totalYears": 5,
+    "highlights": [
+      "Built 20+ production applications serving thousands of users",
+      "Led development teams in agile environments",
+      "Specialized in React, Node.js, and cloud architecture",
+      "Currently learning AI/ML technologies including TensorFlow and LangChain"
+    ]
+  },
+  "workExperience": [
+    {
+      "id": "ft1",
+      "company": "Tech Company Inc.",
+      "position": "Senior Full Stack Developer",
+      "type": "fulltime",
+      "startDate": "2022-01",
+      "endDate": "2024-01",
+      "description": "Led development of enterprise web applications using modern JavaScript frameworks and cloud technologies.",
+      "achievements": [
+        "Reduced application load time by 40% through optimization",
+        "Mentored junior developers and conducted code reviews",
+        "Implemented CI/CD pipelines that reduced deployment time by 60%"
+      ],
+      "techStack": [
+        {
+          "name": "React",
+          "level": "expert",
+          "category": "framework"
+        },
+        {
+          "name": "Node.js",
+          "level": "expert",
+          "category": "language"
+        },
+        {
+          "name": "TypeScript",
+          "level": "advanced",
+          "category": "language"
+        },
+        {
+          "name": "AWS",
+          "level": "advanced",
+          "category": "cloud"
+        }
+      ]
+    },
+    {
+      "id": "ft2",
+      "company": "StartupXYZ",
+      "position": "Full Stack Developer",
+      "type": "fulltime",
+      "startDate": "2020-06",
+      "endDate": "2021-12",
+      "description": "Developed and maintained web applications for various clients, focusing on performance and user experience.",
+      "achievements": [
+        "Built responsive web applications with 99.9% uptime",
+        "Integrated third-party APIs and payment systems",
+        "Collaborated with UX team to improve user engagement by 25%"
+      ],
+      "techStack": [
+        {
+          "name": "Vue.js",
+          "level": "advanced",
+          "category": "framework"
+        },
+        {
+          "name": "Python",
+          "level": "intermediate",
+          "category": "language"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "advanced",
+          "category": "database"
+        }
+      ]
+    },
+    {
+      "id": "fr1",
+      "company": "Various Clients",
+      "position": "Freelance Web Developer",
+      "type": "freelance",
+      "startDate": "2019-01",
+      "endDate": "2020-05",
+      "description": "Provided web development services to small businesses and startups, delivering custom solutions tailored to their needs.",
+      "achievements": [
+        "Completed 15+ projects for diverse industries",
+        "Maintained 100% client satisfaction rate",
+        "Delivered projects on time and within budget"
+      ],
+      "techStack": [
+        {
+          "name": "React",
+          "level": "advanced",
+          "category": "framework"
+        },
+        {
+          "name": "PHP",
+          "level": "intermediate",
+          "category": "language"
+        },
+        {
+          "name": "MySQL",
+          "level": "advanced",
+          "category": "database"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "name": "E-Commerce Platform",
+      "description": "Modern e-commerce solution with real-time inventory management and AI-powered recommendations.",
+      "role": "fullstack",
+      "technologies": [
+        {
+          "name": "Next.js",
+          "level": "expert",
+          "category": "framework"
+        },
+        {
+          "name": "Stripe",
+          "level": "advanced",
+          "category": "tool"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "advanced",
+          "category": "database"
+        }
+      ],
+      "liveUrl": "https://example-ecommerce.com",
+      "githubUrl": "https://github.com/yourusername/ecommerce-platform",
+      "imageUrl": "/images/projects/ecommerce.jpg",
+      "featured": true,
+      "details": {
+        "problem": "Small businesses needed an affordable, scalable e-commerce solution",
+        "solution": "Built a headless e-commerce platform with modular architecture",
+        "challenges": [
+          "Implementing real-time inventory across multiple locations",
+          "Optimizing for mobile performance",
+          "Integrating multiple payment gateways"
+        ],
+        "outcomes": [
+          "Serving 500+ active stores",
+          "Processing $1M+ in transactions monthly",
+          "99.9% uptime SLA maintained"
+        ]
+      }
+    },
+    {
+      "id": "p2",
+      "name": "Task Management Dashboard",
+      "description": "Collaborative project management tool with real-time updates and AI-powered task prioritization.",
+      "role": "frontend",
+      "technologies": [
+        {
+          "name": "React",
+          "level": "expert",
+          "category": "framework"
+        },
+        {
+          "name": "Redux Toolkit",
+          "level": "advanced",
+          "category": "tool"
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": "expert",
+          "category": "framework"
+        }
+      ],
+      "liveUrl": "https://taskdash.example.com",
+      "githubUrl": "https://github.com/yourusername/task-dashboard",
+      "imageUrl": "/images/projects/taskdash.jpg",
+      "featured": true,
+      "details": {
+        "problem": "Teams needed better visibility and coordination in remote work",
+        "solution": "Created a real-time dashboard with drag-and-drop functionality",
+        "challenges": [
+          "Real-time synchronization across multiple users",
+          "Complex state management",
+          "Performance optimization for large datasets"
+        ],
+        "outcomes": [
+          "50% improvement in team productivity",
+          "Reduced meeting time by 30%",
+          "Adopted by 100+ teams"
+        ]
+      }
+    },
+    {
+      "id": "p3",
+      "name": "API Gateway Service",
+      "description": "Microservices API gateway with authentication, rate limiting, and analytics.",
+      "role": "backend",
+      "technologies": [
+        {
+          "name": "Node.js",
+          "level": "expert",
+          "category": "language"
+        },
+        {
+          "name": "Redis",
+          "level": "advanced",
+          "category": "database"
+        },
+        {
+          "name": "Docker",
+          "level": "advanced",
+          "category": "tool"
+        }
+      ],
+      "githubUrl": "https://github.com/yourusername/api-gateway",
+      "imageUrl": "/images/projects/api-gateway.jpg",
+      "featured": false,
+      "details": {
+        "problem": "Managing multiple microservices became complex and inefficient",
+        "solution": "Built a centralized API gateway with comprehensive middleware",
+        "challenges": [
+          "Implementing efficient caching strategies",
+          "Handling high concurrent requests",
+          "Designing flexible middleware system"
+        ],
+        "outcomes": [
+          "Reduced API response time by 45%",
+          "Improved security with centralized authentication",
+          "Simplified microservices architecture"
+        ]
+      }
+    }
+  ]
+}
